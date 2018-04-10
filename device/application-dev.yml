@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    password: tvu1p2ack3
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://10.12.22.78:3306/write?useUnicode=true&characterEncoding=utf8
+    username: root
